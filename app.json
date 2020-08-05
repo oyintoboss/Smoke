@@ -1,0 +1,12 @@
+{
+  "name": "smoke",
+  "displayName": "smoke",
+  "expo": {
+    "name": "smoke",
+    "slug": "smoke",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
